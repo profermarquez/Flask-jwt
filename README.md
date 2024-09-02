@@ -25,3 +25,6 @@ body: (raw-json):{
 Rta: {
     "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNTMwOTcwMywianRpIjoiYzNjMWZlNDItOTRjMS00MzZkLTgzODYtMTdjYzBhM2UwYzI3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJlbWFpbCI6Im1hcnF1ZXpAZ21haWwuY29tIiwicm9sZSI6IkFkbWluIn0sIm5iZiI6MTcyNTMwOTcwMywiY3NyZiI6ImQ1MDVkNGMwLTA5ZDMtNDEzOC1hZDQ1LWVlNTBiNWJiNGJkOCIsImV4cCI6MTcyNTMxMDYwM30.iUGcyq9c1iPLlVfdx1Kp6AkVBbs5JqeJZQdizaYT2to"
 }
+http://127.0.0.1:5000/protected
+Beared token
+token: token devuelto por la api
