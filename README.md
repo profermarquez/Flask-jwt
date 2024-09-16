@@ -1,6 +1,6 @@
 # Paso 1:
 Crear en entorno virtual
-pip install Flask
+pip install -r requeriments.txt
 
 # Configurar la DB
 export FLASK_APP=backend.py
